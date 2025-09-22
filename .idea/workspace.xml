@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="694855ed-fae2-498f-8d01-62b151933ce6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/F06_ReadWriteLock/ReaderWritter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F06_ReadWriteLock/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F07_Lembda_Expression/EngineeringStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F07_Lembda_Expression/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F07_Lembda_Expression/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/F05_Lock_ReentrantLock/UseOfReentrantLock/ReentrantExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/F05_Lock_ReentrantLock/UseOfReentrantLock/ReentrantExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithreading/F05_Lock_ReentrantLock/UseOfReentrantLock/ReentrantExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/F05_Lock_ReentrantLock/UseOfReentrantLock/ReentrantExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithreading/F05_Lock_ReentrantLock/UseOfReentrantLock/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/F05_Lock_ReentrantLock/UseOfReentrantLock/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/F07_Lembda_Expression/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/F07_Lembda_Expression/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/F07_Lembda_Expression/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/F07_Lembda_Expression/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/F07_Lembda_Expression/Test$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/F07_Lembda_Expression/Test$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/F07_Lembda_Expression/Test$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/F07_Lembda_Expression/Test$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/F07_Lembda_Expression/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/F07_Lembda_Expression/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,8 @@
     "Application.MyThread_02.executor": "Run",
     "Application.MyThread_03_typesOfThread.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.Test3.executor": "Run",
     "Application.code1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",

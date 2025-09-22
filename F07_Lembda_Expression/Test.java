@@ -3,7 +3,8 @@ package F07_Lembda_Expression;
 public class Test {
     public static void main(String[] args) {
 
-        // (Runnable) --- this is the functional interface ,implementation of run (method) of this interface can also be done using Lambda expression
+        //(Runnable) --- this is the functional interface ,implementation of run (method) of this interface can also
+        // be done using Lambda expression
         Runnable task= new Runnable() {
             @Override
             public void run() {
