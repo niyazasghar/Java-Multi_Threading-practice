@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="694855ed-fae2-498f-8d01-62b151933ce6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/F03_thread_Methods/MyThread_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F03_thread_Methods/MyThread_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F03_thread_Methods/MyThread_03_typesOfThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F04_Synchronisation/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F04_Synchronisation/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StatesOfThread/Code02.java" beforeDir="false" afterPath="$PROJECT_DIR$/F02_StatesOfThread/Code02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/Create_thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/F01_basics/Create_thread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics/code1.java" beforeDir="false" afterPath="$PROJECT_DIR$/F01_basics/code1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread_Methods/Code01.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/F05_Lock_ReentrantLock/Bank_Debit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/F05_Lock_ReentrantLock/Commented_Bank_Debit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/F05_Lock_ReentrantLock/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/F05_Lock_ReentrantLock/UseOfReentrantLock/ReentrantExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/F05_Lock_ReentrantLock/UseOfReentrantLock/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/F04_Synchronisation/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/F04_Synchronisation/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/F04_Synchronisation/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/F04_Synchronisation/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/F04_Synchronisation/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/F04_Synchronisation/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/F04_Synchronisation/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/F04_Synchronisation/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,21 +39,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Code02.executor": "Run",
-    "Application.MyThread_02.executor": "Run",
-    "Application.MyThread_03_typesOfThread.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.code1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/MD NIYAZ ASGHAR/Desktop/java/multithreading"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Code02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyThread_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyThread_03_typesOfThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.code1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MD NIYAZ ASGHAR/Desktop/java/multithreading&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MD NIYAZ ASGHAR\Desktop\java\multithreading" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="F05_Lock_ReentrantLock.UseOfReentrantLock" />
+      <recent name="F05_Lock_ReentrantLock" />
       <recent name="F04_Synchronisation" />
       <recent name="thread_Methods" />
       <recent name="basics" />
