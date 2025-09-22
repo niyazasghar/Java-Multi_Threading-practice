@@ -1,4 +1,4 @@
-package StatesOfThread;
+package F02_StatesOfThread;
 
 public class Code02 extends Thread {
     @Override

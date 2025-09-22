@@ -1,4 +1,4 @@
-package basics;
+package F01_basics;
 
 public class code1 {
     public static void main(String[] args) {

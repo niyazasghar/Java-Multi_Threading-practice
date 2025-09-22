@@ -1,4 +1,4 @@
-package basics;
+package F01_basics;
 //public class Create_thread extends Thread {
 //    @Override
 //    public void run() {
