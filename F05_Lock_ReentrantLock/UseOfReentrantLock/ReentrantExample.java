@@ -5,7 +5,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class ReentrantExample {
     // this is the demo to show why Reentrant is there in the ReentrantLock(), where one thread having a lock access another lock , and lock works here as counter
-    Lock lock = new ReentrantLock();
+    private final  Lock lock = new ReentrantLock();
     public void outerClass(){
         try {
             lock.lock();

@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="694855ed-fae2-498f-8d01-62b151933ce6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/F05_Lock_ReentrantLock/Bank_Debit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F05_Lock_ReentrantLock/Commented_Bank_Debit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F05_Lock_ReentrantLock/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F05_Lock_ReentrantLock/UseOfReentrantLock/ReentrantExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F05_Lock_ReentrantLock/UseOfReentrantLock/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/F04_Synchronisation/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/F04_Synchronisation/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithreading/F04_Synchronisation/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/F04_Synchronisation/Counter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithreading/F04_Synchronisation/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/F04_Synchronisation/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithreading/F04_Synchronisation/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/F04_Synchronisation/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/F06_ReadWriteLock/ReaderWritter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/F06_ReadWriteLock/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/F07_Lembda_Expression/EngineeringStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/F07_Lembda_Expression/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/F07_Lembda_Expression/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/F05_Lock_ReentrantLock/UseOfReentrantLock/ReentrantExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/F05_Lock_ReentrantLock/UseOfReentrantLock/ReentrantExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/F05_Lock_ReentrantLock/UseOfReentrantLock/ReentrantExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/F05_Lock_ReentrantLock/UseOfReentrantLock/ReentrantExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithreading/F05_Lock_ReentrantLock/UseOfReentrantLock/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithreading/F05_Lock_ReentrantLock/UseOfReentrantLock/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,29 +38,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Code02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyThread_02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyThread_03_typesOfThread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.code1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/MD NIYAZ ASGHAR/Desktop/java/multithreading&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Code02.executor": "Run",
+    "Application.MyThread_02.executor": "Run",
+    "Application.MyThread_03_typesOfThread.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.code1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/MD NIYAZ ASGHAR/Desktop/java/multithreading/Lembda_Expression"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MD NIYAZ ASGHAR\Desktop\java\multithreading\Lembda_Expression" />
       <recent name="C:\Users\MD NIYAZ ASGHAR\Desktop\java\multithreading" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="F07_Lembda_Expression" />
+      <recent name="F06_ReadWriteLock" />
       <recent name="F05_Lock_ReentrantLock.UseOfReentrantLock" />
       <recent name="F05_Lock_ReentrantLock" />
       <recent name="F04_Synchronisation" />
-      <recent name="thread_Methods" />
-      <recent name="basics" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
